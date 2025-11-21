@@ -1,0 +1,14 @@
+# فایل‌های کلاس کامپایل شده
+*.class
+
+# فولدرهای خروجی
+/bin/
+/out/
+
+# فایل‌های IntelliJ IDEA
+*.iml
+.idea/
+
+# فایل‌های سیستم
+.DS_Store
+Thumbs.db
